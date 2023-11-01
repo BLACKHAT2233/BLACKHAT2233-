@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Shivaji Mhaske</h1>
+<h1 align="center">Hi 👋, I'm Sanket  Mhaske</h1>
 <h3 align="center">As a Computer Science engineer, I have expertise in front-end development, C++, and MySQL. I enjoy creating user-friendly interfaces and using data to build powerful applications. I have the skill to connect design and functionality. I am always looking for opportunities to create innovative solutions and enhance user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhat2233&label=Profile%20views&color=0e75b6&style=flat" alt="blackhat2233" /> </p>
